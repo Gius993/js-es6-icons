@@ -113,6 +113,16 @@
 	}
 ];
 
-//Ogni oggetto avrà un impostazione del tipo <i class="fa-cat animals"></i>
+
 // partendo da questo posso creare un box generale 
+	//Milestone1
+//creo le variabili da utilizzare
+
+//creo un forEach per generare le varie icone
+	//imposto le variabili all'interno del forE
+	//imposto lo scheletro dell'html 
+	//Ogni oggetto avrà un impostazione del tipo <i class="fa-cat animals"></i>
+	//creo il mio .innerHTML per pushare in index
+	
+
 
